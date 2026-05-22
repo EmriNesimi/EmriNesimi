@@ -76,6 +76,11 @@
 # 📊 GitHub Stats
 
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emrinesimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emrinesimi&layout=compact&langs_count=8&theme=tokyonight"/>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmriNesimi&theme=tokyonight&hide_border=true)
 
 </div>
