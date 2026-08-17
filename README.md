@@ -12,8 +12,7 @@
 
 ## 🧠 About Me
 
-🎓 MS Computer Science Student @ NYIT  
-🧑‍🏫 Teaching Assistant & Research Assistant  
+🎓 MS Computer Science Graduate @ NYIT   
 🤖 Passionate about AI, machine learning, and scalable systems  
 ⚡ Building projects that combine automation, AI, and full stack development  
 📚 Currently researching formal languages and large language models  
